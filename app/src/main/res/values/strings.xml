@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMT</string>
+    <string name="menu">Menu</string>
+    <string name="history">History</string>
+    <string name="bmt_logo">BMT logo</string>
+    <string name="body_measurements_tracker">Body Measurements Tracker</string>
+    <string name="description"><![CDATA[Track Body Measurements , Calculate BMI , BMR , Ideal weight , Body fat percentage , Waist-to-Height Ratio & more for you and family]]></string>
+    <string name="let_s_start">Let\'s Start</string>
+</resources>
